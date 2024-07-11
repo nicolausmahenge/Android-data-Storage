@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Nick"</string>
+    <string name="welcome_message">Halla</string>
+    <string name="login_welcome">Welcome!</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button_text">Login</string>
+    <string name="enter_email_password">Please enter both email and password</string>
+
+    <!-- Profile Screen -->
+    <string name="profile_name">Nick</string>
+    <string name="edit_bio_hint">Edit bio</string>
+    <string name="save_button_text">Save</string>
+    <string name="bio_saved">Bio saved!</string>
+    <string name="enter_bio">Please enter your bio</string>
+    <string name="profile_info">UI Designer\nUX Designer\nDesign System\nProduct\nSuccessful</string>
+    <string name="follow_button_text">Follow</string>
+    <string name="message_button_text">Message</string>
+    <string name="dark_theme_applied">theme</string>
+    <string name="light_theme_applied">light theme</string>
+</resources>
